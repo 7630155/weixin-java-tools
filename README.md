@@ -5,6 +5,10 @@ weixin-java-tools
 
 ===========
 
+本项目长期不维护，推荐各位使用 https://github.com/wechat-group/weixin-java-tools 这个项目
+
+===========
+
 微信公众号、企业号Java SDK。
 
 详细文档请看 [wiki](https://github.com/chanjarster/weixin-java-tools/wiki)。
@@ -17,7 +21,7 @@ weixin-java-tools
 <dependency>
   <groupId>me.chanjar</groupId>
   <artifactId>weixin-java-mp</artifactId>
-  <version>1.3.0</version>
+  <version>1.3.3</version>
 </dependency>
 ```
 
@@ -27,7 +31,7 @@ weixin-java-tools
 <dependency>
   <groupId>me.chanjar</groupId>
   <artifactId>weixin-java-cp</artifactId>
-  <version>1.3.0</version>
+  <version>1.3.3</version>
 </dependency>
 ```
 
